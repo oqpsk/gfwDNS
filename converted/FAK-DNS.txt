@@ -4777,6 +4777,7 @@ https://dns.quad9.net/dns-query
 [/52372.com/]223.5.5.5 119.29.29.29
 [/523touzi.com/]223.5.5.5 119.29.29.29
 [/52419.net/]223.5.5.5 119.29.29.29
+[/524399game.com/]223.5.5.5 119.29.29.29
 [/52488.com/]223.5.5.5 119.29.29.29
 [/525.life/]223.5.5.5 119.29.29.29
 [/5251.net/]223.5.5.5 119.29.29.29
@@ -16766,6 +16767,7 @@ https://dns.quad9.net/dns-query
 [/cloud-links.net/]223.5.5.5 119.29.29.29
 [/cloud-neofussvr.sslcs.cdngc.net/]223.5.5.5 119.29.29.29
 [/cloud-rtc.com/]223.5.5.5 119.29.29.29
+[/cloud-rtc.net/]223.5.5.5 119.29.29.29
 [/cloud-scdn-ns.net/]223.5.5.5 119.29.29.29
 [/cloud-scdn-ns.tech/]223.5.5.5 119.29.29.29
 [/cloud-scdn.com/]223.5.5.5 119.29.29.29
@@ -28820,7 +28822,6 @@ https://dns.quad9.net/dns-query
 [/haoyouyinxiang.com/]223.5.5.5 119.29.29.29
 [/haoyuanfurniture.com/]223.5.5.5 119.29.29.29
 [/haoyuanxiao.com/]223.5.5.5 119.29.29.29
-[/haoyue.asia/]223.5.5.5 119.29.29.29
 [/haoyue28.com/]223.5.5.5 119.29.29.29
 [/haoyuepu.com/]223.5.5.5 119.29.29.29
 [/haoyun13.com/]223.5.5.5 119.29.29.29
@@ -42166,6 +42167,7 @@ https://dns.quad9.net/dns-query
 [/magicdata.io/]223.5.5.5 119.29.29.29
 [/magich5page.com/]223.5.5.5 119.29.29.29
 [/magicleaders.com/]223.5.5.5 119.29.29.29
+[/magicneko.com/]223.5.5.5 119.29.29.29
 [/magicnetmall.com/]223.5.5.5 119.29.29.29
 [/magicspinning.com/]223.5.5.5 119.29.29.29
 [/magicwatchface.com/]223.5.5.5 119.29.29.29
@@ -68844,7 +68846,6 @@ https://dns.quad9.net/dns-query
 [/ym01.tech/]223.5.5.5 119.29.29.29
 [/ym1998.com/]223.5.5.5 119.29.29.29
 [/ym23.com/]223.5.5.5 119.29.29.29
-[/ym68.cc/]223.5.5.5 119.29.29.29
 [/ymadly.com/]223.5.5.5 119.29.29.29
 [/ymadx.com/]223.5.5.5 119.29.29.29
 [/ymailcampaign.com/]223.5.5.5 119.29.29.29
