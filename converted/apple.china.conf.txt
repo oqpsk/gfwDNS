@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]223.5.5.5 119.29.29.29
 [/configuration.apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/configuration.apple.com/]223.5.5.5 119.29.29.29
+[/crl.apple.com/]223.5.5.5 119.29.29.29
 [/cstat.apple.com/]223.5.5.5 119.29.29.29
 [/cstat.cdn-apple.com/]223.5.5.5 119.29.29.29
 [/dd-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29
