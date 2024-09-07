@@ -5,8 +5,8 @@
 [/a5.mzstatic.com/]223.5.5.5 119.29.29.29
 [/adcdownload.apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/adcdownload.apple.com/]223.5.5.5 119.29.29.29
-[/amp-api.media.apple.com/]223.5.5.5 119.29.29.29
 [/amp-api-updates.apps.apple.com/]223.5.5.5 119.29.29.29
+[/amp-api.media.apple.com/]223.5.5.5 119.29.29.29
 [/api-p-ap-c.smoot.apple.com/]223.5.5.5 119.29.29.29
 [/api-p-ap-d.smoot.apple.com/]223.5.5.5 119.29.29.29
 [/api-p-ap-e.smoot.apple.com/]223.5.5.5 119.29.29.29
@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]223.5.5.5 119.29.29.29
 [/dd-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/dejavu.apple.com/]223.5.5.5 119.29.29.29
+[/devstreaming-cdn.apple.com/]223.5.5.5 119.29.29.29
 [/download.developer.apple.com/]223.5.5.5 119.29.29.29
 [/experiments.apple.com/]223.5.5.5 119.29.29.29
 [/gs-loc-cn.apple.com/]223.5.5.5 119.29.29.29
@@ -63,8 +64,8 @@
 [/gsp4-cn.ls.apple.com/]223.5.5.5 119.29.29.29
 [/gsp5-cn.ls.apple.com/]223.5.5.5 119.29.29.29
 [/gsp85-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29
-[/gspe19-2-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]223.5.5.5 119.29.29.29
+[/gspe19-2-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29
 [/gspe19-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29
 [/gspe19-cn.ls-apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/gspe19-cn.ls.apple.com/]223.5.5.5 119.29.29.29
@@ -93,6 +94,7 @@
 [/ipcdn.apple.com/]223.5.5.5 119.29.29.29
 [/iphone-ld.apple.com/]223.5.5.5 119.29.29.29
 [/iphone-ld.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/is1-ssl.mzstatic.com/]223.5.5.5 119.29.29.29
 [/is1.mzstatic.com/]223.5.5.5 119.29.29.29
 [/is2-ssl.mzstatic.com/]223.5.5.5 119.29.29.29
@@ -103,7 +105,6 @@
 [/is4.mzstatic.com/]223.5.5.5 119.29.29.29
 [/is5-ssl.mzstatic.com/]223.5.5.5 119.29.29.29
 [/is5.mzstatic.com/]223.5.5.5 119.29.29.29
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/itunes-apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/itunes.apple.com/]223.5.5.5 119.29.29.29
 [/itunesconnect.apple.com/]223.5.5.5 119.29.29.29
@@ -113,8 +114,8 @@
 [/ml.cdn-apple.com/]223.5.5.5 119.29.29.29
 [/music.apple.com/]223.5.5.5 119.29.29.29
 [/ocsp-lb.apple.com.akadns.net/]223.5.5.5 119.29.29.29
-[/ocsp2-lb.apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/ocsp.apple.com/]223.5.5.5 119.29.29.29
+[/ocsp2-lb.apple.com.akadns.net/]223.5.5.5 119.29.29.29
 [/ocsp2.apple.com/]223.5.5.5 119.29.29.29
 [/oscdn.apple.com/]223.5.5.5 119.29.29.29
 [/oscdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29
