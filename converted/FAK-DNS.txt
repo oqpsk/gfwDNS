@@ -5784,6 +5784,7 @@ https://dns.quad9.net/dns-query
 [/5a8.org/]223.5.5.5 119.29.29.29
 [/5aaa.com/]223.5.5.5 119.29.29.29
 [/5acbd.com/]223.5.5.5 119.29.29.29
+[/5adanci.com/]223.5.5.5 119.29.29.29
 [/5adanhao.com/]223.5.5.5 119.29.29.29
 [/5ag.net/]223.5.5.5 119.29.29.29
 [/5ailiwu.com/]223.5.5.5 119.29.29.29
@@ -10490,6 +10491,7 @@ https://dns.quad9.net/dns-query
 [/aohuatextiles.com/]223.5.5.5 119.29.29.29
 [/aojauto.com/]223.5.5.5 119.29.29.29
 [/aojia-oil.com/]223.5.5.5 119.29.29.29
+[/aojiahuashare.com/]223.5.5.5 119.29.29.29
 [/aojian.net/]223.5.5.5 119.29.29.29
 [/aojian2.net/]223.5.5.5 119.29.29.29
 [/aojiaostudio.com/]223.5.5.5 119.29.29.29
@@ -34814,7 +34816,6 @@ https://dns.quad9.net/dns-query
 [/handyfriendship.com/]223.5.5.5 119.29.29.29
 [/hanergy.com/]223.5.5.5 119.29.29.29
 [/hanergymobileenergy.com/]223.5.5.5 119.29.29.29
-[/hanfang8.com/]223.5.5.5 119.29.29.29
 [/hanfei.net/]223.5.5.5 119.29.29.29
 [/hanfeiyl.com/]223.5.5.5 119.29.29.29
 [/hanfengcars.com/]223.5.5.5 119.29.29.29
@@ -43435,7 +43436,6 @@ https://dns.quad9.net/dns-query
 [/jiningjj.com/]223.5.5.5 119.29.29.29
 [/jiniu.work/]223.5.5.5 119.29.29.29
 [/jiniutech.com/]223.5.5.5 119.29.29.29
-[/jinjianbio.com/]223.5.5.5 119.29.29.29
 [/jinjiang-group.com/]223.5.5.5 119.29.29.29
 [/jinjiang.com/]223.5.5.5 119.29.29.29
 [/jinjianginns.com/]223.5.5.5 119.29.29.29
@@ -44612,7 +44612,6 @@ https://dns.quad9.net/dns-query
 [/jskjcms.com/]223.5.5.5 119.29.29.29
 [/jsklcy.com/]223.5.5.5 119.29.29.29
 [/jskpcg.org/]223.5.5.5 119.29.29.29
-[/jsks-ya.com/]223.5.5.5 119.29.29.29
 [/jskuajing.com/]223.5.5.5 119.29.29.29
 [/jskwt.com/]223.5.5.5 119.29.29.29
 [/jslcjt.com/]223.5.5.5 119.29.29.29
@@ -65007,7 +65006,6 @@ https://dns.quad9.net/dns-query
 [/shfq.com/]223.5.5.5 119.29.29.29
 [/shfrp.com/]223.5.5.5 119.29.29.29
 [/shftth.com/]223.5.5.5 119.29.29.29
-[/shfuju.com/]223.5.5.5 119.29.29.29
 [/shfxrc.com/]223.5.5.5 119.29.29.29
 [/shgao.com/]223.5.5.5 119.29.29.29
 [/shgaoxin.net/]223.5.5.5 119.29.29.29
@@ -70363,7 +70361,6 @@ https://dns.quad9.net/dns-query
 [/tianjin-patek.com/]223.5.5.5 119.29.29.29
 [/tianjingames.com/]223.5.5.5 119.29.29.29
 [/tianjingrong.com/]223.5.5.5 119.29.29.29
-[/tianjinshunma.com/]223.5.5.5 119.29.29.29
 [/tianjinwe.com/]223.5.5.5 119.29.29.29
 [/tianjinyijiahua.com/]223.5.5.5 119.29.29.29
 [/tianjiyy.com/]223.5.5.5 119.29.29.29
@@ -80663,6 +80660,7 @@ https://dns.quad9.net/dns-query
 [/xueyuhuangjinyan.com/]223.5.5.5 119.29.29.29
 [/xuezhangbb.com/]223.5.5.5 119.29.29.29
 [/xuezhangya.com/]223.5.5.5 119.29.29.29
+[/xuezhao.space/]223.5.5.5 119.29.29.29
 [/xuezhishi88.com/]223.5.5.5 119.29.29.29
 [/xuezhiyou.com/]223.5.5.5 119.29.29.29
 [/xuezhouyi.com/]223.5.5.5 119.29.29.29
@@ -85931,6 +85929,7 @@ https://dns.quad9.net/dns-query
 [/zgps168.com/]223.5.5.5 119.29.29.29
 [/zgpts.com/]223.5.5.5 119.29.29.29
 [/zgpy168.com/]223.5.5.5 119.29.29.29
+[/zgq.ink/]223.5.5.5 119.29.29.29
 [/zgqcdt.com/]223.5.5.5 119.29.29.29
 [/zgqczj.com/]223.5.5.5 119.29.29.29
 [/zgqkk.com/]223.5.5.5 119.29.29.29
