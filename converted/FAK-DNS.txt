@@ -1077,6 +1077,7 @@ https://dns.quad9.net/dns-query
 [/1156dns.com/]223.5.5.5 119.29.29.29
 [/115800.com/]223.5.5.5 119.29.29.29
 [/115care.com/]223.5.5.5 119.29.29.29
+[/115cdn.com/]223.5.5.5 119.29.29.29
 [/115cdn.net/]223.5.5.5 119.29.29.29
 [/115img.com/]223.5.5.5 119.29.29.29
 [/115jk.com/]223.5.5.5 119.29.29.29
@@ -1816,6 +1817,7 @@ https://dns.quad9.net/dns-query
 [/17p.co/]223.5.5.5 119.29.29.29
 [/17pa.com/]223.5.5.5 119.29.29.29
 [/17palyba.com/]223.5.5.5 119.29.29.29
+[/17popo.com/]223.5.5.5 119.29.29.29
 [/17pr.com/]223.5.5.5 119.29.29.29
 [/17pw.com/]223.5.5.5 119.29.29.29
 [/17python.com/]223.5.5.5 119.29.29.29
@@ -7253,6 +7255,7 @@ https://dns.quad9.net/dns-query
 [/88hom.com/]223.5.5.5 119.29.29.29
 [/88ht.com/]223.5.5.5 119.29.29.29
 [/88hu.com/]223.5.5.5 119.29.29.29
+[/88k.site/]223.5.5.5 119.29.29.29
 [/88koo.com/]223.5.5.5 119.29.29.29
 [/88la.la/]223.5.5.5 119.29.29.29
 [/88lan.com/]223.5.5.5 119.29.29.29
@@ -7830,6 +7833,7 @@ https://dns.quad9.net/dns-query
 [/94php.com/]223.5.5.5 119.29.29.29
 [/94q.com/]223.5.5.5 119.29.29.29
 [/94qy.com/]223.5.5.5 119.29.29.29
+[/94r1fj.com/]223.5.5.5 119.29.29.29
 [/94rmb.com/]223.5.5.5 119.29.29.29
 [/94rp.com/]223.5.5.5 119.29.29.29
 [/94te.com/]223.5.5.5 119.29.29.29
@@ -8035,6 +8039,7 @@ https://dns.quad9.net/dns-query
 [/9831428.com/]223.5.5.5 119.29.29.29
 [/984g.com/]223.5.5.5 119.29.29.29
 [/985.so/]223.5.5.5 119.29.29.29
+[/985211.link/]223.5.5.5 119.29.29.29
 [/985900.com/]223.5.5.5 119.29.29.29
 [/985923.com/]223.5.5.5 119.29.29.29
 [/985dh.com/]223.5.5.5 119.29.29.29
@@ -8607,6 +8612,7 @@ https://dns.quad9.net/dns-query
 [/ace-rubber.com/]223.5.5.5 119.29.29.29
 [/acejoy.com/]223.5.5.5 119.29.29.29
 [/acelamicro.com/]223.5.5.5 119.29.29.29
+[/aceoo.com/]223.5.5.5 119.29.29.29
 [/acesheep.com/]223.5.5.5 119.29.29.29
 [/acetace.com/]223.5.5.5 119.29.29.29
 [/acewill.net/]223.5.5.5 119.29.29.29
@@ -8689,6 +8695,7 @@ https://dns.quad9.net/dns-query
 [/acvsh.com/]223.5.5.5 119.29.29.29
 [/acwifi.net/]223.5.5.5 119.29.29.29
 [/acwing.com/]223.5.5.5 119.29.29.29
+[/acwlkj.com/]223.5.5.5 119.29.29.29
 [/acxk.net/]223.5.5.5 119.29.29.29
 [/acz.asia/]223.5.5.5 119.29.29.29
 [/ad-cn.net/]223.5.5.5 119.29.29.29
@@ -8742,6 +8749,7 @@ https://dns.quad9.net/dns-query
 [/adfyt.com/]223.5.5.5 119.29.29.29
 [/adg-dental.com/]223.5.5.5 119.29.29.29
 [/adgomob.com/]223.5.5.5 119.29.29.29
+[/adguardprivate.com/]223.5.5.5 119.29.29.29
 [/adhei.com/]223.5.5.5 119.29.29.29
 [/adhimalayandi.com/]223.5.5.5 119.29.29.29
 [/adhubbj.xyz/]223.5.5.5 119.29.29.29
@@ -9158,6 +9166,7 @@ https://dns.quad9.net/dns-query
 [/ai-vip.net/]223.5.5.5 119.29.29.29
 [/ai.cc/]223.5.5.5 119.29.29.29
 [/ai012.com/]223.5.5.5 119.29.29.29
+[/ai257.com/]223.5.5.5 119.29.29.29
 [/ai2news.com/]223.5.5.5 119.29.29.29
 [/ai7.com/]223.5.5.5 119.29.29.29
 [/ai7.org/]223.5.5.5 119.29.29.29
@@ -10773,6 +10782,7 @@ https://dns.quad9.net/dns-query
 [/appleadstech.com/]223.5.5.5 119.29.29.29
 [/applebl.com/]223.5.5.5 119.29.29.29
 [/applemei.com/]223.5.5.5 119.29.29.29
+[/applepopo.com/]223.5.5.5 119.29.29.29
 [/applethome.com/]223.5.5.5 119.29.29.29
 [/appletuan.com/]223.5.5.5 119.29.29.29
 [/applex.net/]223.5.5.5 119.29.29.29
@@ -12427,6 +12437,7 @@ https://dns.quad9.net/dns-query
 [/baskabsj.com/]223.5.5.5 119.29.29.29
 [/bastcn.com/]223.5.5.5 119.29.29.29
 [/basunlighting.com/]223.5.5.5 119.29.29.29
+[/batchat.com/]223.5.5.5 119.29.29.29
 [/batengtiyu1.com/]223.5.5.5 119.29.29.29
 [/bathome.net/]223.5.5.5 119.29.29.29
 [/batian.net/]223.5.5.5 119.29.29.29
@@ -15164,6 +15175,7 @@ https://dns.quad9.net/dns-query
 [/buysun.net/]223.5.5.5 119.29.29.29
 [/buysweet.com/]223.5.5.5 119.29.29.29
 [/buyu1314.com/]223.5.5.5 119.29.29.29
+[/buyueyuyun.com/]223.5.5.5 119.29.29.29
 [/buyun.co/]223.5.5.5 119.29.29.29
 [/buzao.net/]223.5.5.5 119.29.29.29
 [/buzhi.com/]223.5.5.5 119.29.29.29
@@ -15371,6 +15383,7 @@ https://dns.quad9.net/dns-query
 [/bytesus.com/]223.5.5.5 119.29.29.29
 [/bytetcc.com/]223.5.5.5 119.29.29.29
 [/bytetos.com/]223.5.5.5 119.29.29.29
+[/bytetstatic.com/]223.5.5.5 119.29.29.29
 [/byteug.com/]223.5.5.5 119.29.29.29
 [/bytevdn.com/]223.5.5.5 119.29.29.29
 [/bytewars.cc/]223.5.5.5 119.29.29.29
@@ -22406,6 +22419,7 @@ https://dns.quad9.net/dns-query
 [/daodao.com/]223.5.5.5 119.29.29.29
 [/daodaojizhang.com/]223.5.5.5 119.29.29.29
 [/daodaozz.com/]223.5.5.5 119.29.29.29
+[/daodejing.org/]223.5.5.5 119.29.29.29
 [/daodian100.com/]223.5.5.5 119.29.29.29
 [/daodianfu.com/]223.5.5.5 119.29.29.29
 [/daodoc.com/]223.5.5.5 119.29.29.29
@@ -22466,6 +22480,7 @@ https://dns.quad9.net/dns-query
 [/daqing8080.com/]223.5.5.5 119.29.29.29
 [/daqiso.com/]223.5.5.5 119.29.29.29
 [/daqizhong.com/]223.5.5.5 119.29.29.29
+[/daqqd.com/]223.5.5.5 119.29.29.29
 [/daqsoft.com/]223.5.5.5 119.29.29.29
 [/daquan.com/]223.5.5.5 119.29.29.29
 [/darczpw.com/]223.5.5.5 119.29.29.29
@@ -22846,6 +22861,7 @@ https://dns.quad9.net/dns-query
 [/ddmap.com/]223.5.5.5 119.29.29.29
 [/ddmer.com/]223.5.5.5 119.29.29.29
 [/ddnddn.com/]223.5.5.5 119.29.29.29
+[/ddns-dm.cc/]223.5.5.5 119.29.29.29
 [/ddnspod.com/]223.5.5.5 119.29.29.29
 [/ddnsto.com/]223.5.5.5 119.29.29.29
 [/ddnx.com/]223.5.5.5 119.29.29.29
@@ -22978,6 +22994,7 @@ https://dns.quad9.net/dns-query
 [/deepseek.com/]223.5.5.5 119.29.29.29
 [/deepsheet.net/]223.5.5.5 119.29.29.29
 [/deeptechchina.com/]223.5.5.5 119.29.29.29
+[/deeptrain.net/]223.5.5.5 119.29.29.29
 [/deepvinci.tech/]223.5.5.5 119.29.29.29
 [/deer-express.com/]223.5.5.5 119.29.29.29
 [/deerex.com/]223.5.5.5 119.29.29.29
@@ -23305,6 +23322,7 @@ https://dns.quad9.net/dns-query
 [/dgdqw.com/]223.5.5.5 119.29.29.29
 [/dgdydd.com/]223.5.5.5 119.29.29.29
 [/dgegbj.com/]223.5.5.5 119.29.29.29
+[/dgfengtu.com/]223.5.5.5 119.29.29.29
 [/dgg.net/]223.5.5.5 119.29.29.29
 [/dggdk.com/]223.5.5.5 119.29.29.29
 [/dgggs.com/]223.5.5.5 119.29.29.29
@@ -23342,6 +23360,7 @@ https://dns.quad9.net/dns-query
 [/dgod.net/]223.5.5.5 119.29.29.29
 [/dgouyijiance.com/]223.5.5.5 119.29.29.29
 [/dgpenghao.com/]223.5.5.5 119.29.29.29
+[/dgphospital.com/]223.5.5.5 119.29.29.29
 [/dgptjob.com/]223.5.5.5 119.29.29.29
 [/dgpuyu.com/]223.5.5.5 119.29.29.29
 [/dgq63136.icu/]223.5.5.5 119.29.29.29
@@ -26098,6 +26117,7 @@ https://dns.quad9.net/dns-query
 [/edefang.net/]223.5.5.5 119.29.29.29
 [/edenblis.com/]223.5.5.5 119.29.29.29
 [/edesson.com/]223.5.5.5 119.29.29.29
+[/edfni.xyz/]223.5.5.5 119.29.29.29
 [/edge-byted.com/]223.5.5.5 119.29.29.29
 [/edgegslb.com/]223.5.5.5 119.29.29.29
 [/edgemec.com/]223.5.5.5 119.29.29.29
@@ -26955,6 +26975,7 @@ https://dns.quad9.net/dns-query
 [/esjson.com/]223.5.5.5 119.29.29.29
 [/esk365.com/]223.5.5.5 119.29.29.29
 [/eskimall.com/]223.5.5.5 119.29.29.29
+[/eskux.xyz/]223.5.5.5 119.29.29.29
 [/eskysky.com/]223.5.5.5 119.29.29.29
 [/eslosity.com/]223.5.5.5 119.29.29.29
 [/esmartwave.com/]223.5.5.5 119.29.29.29
@@ -27264,6 +27285,7 @@ https://dns.quad9.net/dns-query
 [/exiaoba.com/]223.5.5.5 119.29.29.29
 [/exinee.com/]223.5.5.5 119.29.29.29
 [/exmailqq.com/]223.5.5.5 119.29.29.29
+[/exmay.com/]223.5.5.5 119.29.29.29
 [/exmoo.com/]223.5.5.5 119.29.29.29
 [/exmrw.com/]223.5.5.5 119.29.29.29
 [/exnpk.com/]223.5.5.5 119.29.29.29
@@ -27600,6 +27622,7 @@ https://dns.quad9.net/dns-query
 [/fangchengganglvxingshe.com/]223.5.5.5 119.29.29.29
 [/fangchip.com/]223.5.5.5 119.29.29.29
 [/fangcloud.com/]223.5.5.5 119.29.29.29
+[/fangcunshan.xyz/]223.5.5.5 119.29.29.29
 [/fangdaijisuanqi.com/]223.5.5.5 119.29.29.29
 [/fangdaquan.com/]223.5.5.5 119.29.29.29
 [/fangdd.com/]223.5.5.5 119.29.29.29
@@ -29989,6 +30012,7 @@ https://dns.quad9.net/dns-query
 [/gamexhb.com/]223.5.5.5 119.29.29.29
 [/gamexun.com/]223.5.5.5 119.29.29.29
 [/gamexz.com/]223.5.5.5 119.29.29.29
+[/gameyiming.com/]223.5.5.5 119.29.29.29
 [/gameyisi.com/]223.5.5.5 119.29.29.29
 [/gamfe.com/]223.5.5.5 119.29.29.29
 [/gammatimes.com/]223.5.5.5 119.29.29.29
@@ -31575,6 +31599,7 @@ https://dns.quad9.net/dns-query
 [/golangapi.com/]223.5.5.5 119.29.29.29
 [/golanger.com/]223.5.5.5 119.29.29.29
 [/golanghome.com/]223.5.5.5 119.29.29.29
+[/golangroadmap.com/]223.5.5.5 119.29.29.29
 [/golangw.com/]223.5.5.5 119.29.29.29
 [/golangweb.com/]223.5.5.5 119.29.29.29
 [/golaravel.com/]223.5.5.5 119.29.29.29
@@ -37942,6 +37967,7 @@ https://dns.quad9.net/dns-query
 [/hkstv.tv/]223.5.5.5 119.29.29.29
 [/hkszetsair.com/]223.5.5.5 119.29.29.29
 [/hkt4.com/]223.5.5.5 119.29.29.29
+[/hku-szh.org/]223.5.5.5 119.29.29.29
 [/hkvisen.com/]223.5.5.5 119.29.29.29
 [/hkwb.net/]223.5.5.5 119.29.29.29
 [/hkxbjt.com/]223.5.5.5 119.29.29.29
@@ -38289,6 +38315,7 @@ https://dns.quad9.net/dns-query
 [/hnrsks.com/]223.5.5.5 119.29.29.29
 [/hnrszhjc.com/]223.5.5.5 119.29.29.29
 [/hnryly.com/]223.5.5.5 119.29.29.29
+[/hns5j.com/]223.5.5.5 119.29.29.29
 [/hnsbxl.com/]223.5.5.5 119.29.29.29
 [/hnsdzjy.com/]223.5.5.5 119.29.29.29
 [/hnsfdc.com/]223.5.5.5 119.29.29.29
@@ -40563,6 +40590,7 @@ https://dns.quad9.net/dns-query
 [/hzapuqi.com/]223.5.5.5 119.29.29.29
 [/hzarx.com/]223.5.5.5 119.29.29.29
 [/hzbcdp.com/]223.5.5.5 119.29.29.29
+[/hzbcxg.com/]223.5.5.5 119.29.29.29
 [/hzbh.com/]223.5.5.5 119.29.29.29
 [/hzbhjy.com/]223.5.5.5 119.29.29.29
 [/hzbhsh.com/]223.5.5.5 119.29.29.29
@@ -40879,6 +40907,7 @@ https://dns.quad9.net/dns-query
 [/i91pv.com/]223.5.5.5 119.29.29.29
 [/i987.com/]223.5.5.5 119.29.29.29
 [/i9978.net/]223.5.5.5 119.29.29.29
+[/i9mr.com/]223.5.5.5 119.29.29.29
 [/i9rht.com/]223.5.5.5 119.29.29.29
 [/i9star.com/]223.5.5.5 119.29.29.29
 [/ia-shenzhen.com/]223.5.5.5 119.29.29.29
@@ -42126,6 +42155,7 @@ https://dns.quad9.net/dns-query
 [/impk.cc/]223.5.5.5 119.29.29.29
 [/impnails.com/]223.5.5.5 119.29.29.29
 [/importingtochina.com/]223.5.5.5 119.29.29.29
+[/improve-ai.com/]223.5.5.5 119.29.29.29
 [/impta.com/]223.5.5.5 119.29.29.29
 [/imqianduan.com/]223.5.5.5 119.29.29.29
 [/imqq.com/]223.5.5.5 119.29.29.29
@@ -43412,6 +43442,7 @@ https://dns.quad9.net/dns-query
 [/j6pay.com/]223.5.5.5 119.29.29.29
 [/j7994.com/]223.5.5.5 119.29.29.29
 [/j95a.com/]223.5.5.5 119.29.29.29
+[/j99h8.com/]223.5.5.5 119.29.29.29
 [/j9dq.com/]223.5.5.5 119.29.29.29
 [/j9pic.com/]223.5.5.5 119.29.29.29
 [/jaadee.com/]223.5.5.5 119.29.29.29
@@ -45102,6 +45133,8 @@ https://dns.quad9.net/dns-query
 [/jiuchet.shop/]223.5.5.5 119.29.29.29
 [/jiuchutong.com/]223.5.5.5 119.29.29.29
 [/jiucool.org/]223.5.5.5 119.29.29.29
+[/jiudafu.com/]223.5.5.5 119.29.29.29
+[/jiudaifu.com/]223.5.5.5 119.29.29.29
 [/jiuday.com/]223.5.5.5 119.29.29.29
 [/jiudezixun.com/]223.5.5.5 119.29.29.29
 [/jiudianjiu.com/]223.5.5.5 119.29.29.29
@@ -45186,6 +45219,7 @@ https://dns.quad9.net/dns-query
 [/jiuxinban.com/]223.5.5.5 119.29.29.29
 [/jiuxing.com/]223.5.5.5 119.29.29.29
 [/jiuxing818.com/]223.5.5.5 119.29.29.29
+[/jiuxingtang.online/]223.5.5.5 119.29.29.29
 [/jiuxusb.com/]223.5.5.5 119.29.29.29
 [/jiuyan.info/]223.5.5.5 119.29.29.29
 [/jiuyanchuanmei.com/]223.5.5.5 119.29.29.29
@@ -47005,6 +47039,7 @@ https://dns.quad9.net/dns-query
 [/jzxs.com/]223.5.5.5 119.29.29.29
 [/jzygczx.com/]223.5.5.5 119.29.29.29
 [/jzyqyb.com/]223.5.5.5 119.29.29.29
+[/jzyqzypg.com/]223.5.5.5 119.29.29.29
 [/jzyx.com/]223.5.5.5 119.29.29.29
 [/jzzfyw.com/]223.5.5.5 119.29.29.29
 [/jzzhw.com/]223.5.5.5 119.29.29.29
@@ -47652,6 +47687,7 @@ https://dns.quad9.net/dns-query
 [/kenshu.cc/]223.5.5.5 119.29.29.29
 [/kenshuhu.com/]223.5.5.5 119.29.29.29
 [/kentier.com/]223.5.5.5 119.29.29.29
+[/kentxxq.com/]223.5.5.5 119.29.29.29
 [/kenuonet.com/]223.5.5.5 119.29.29.29
 [/kenweini.com/]223.5.5.5 119.29.29.29
 [/keoaeic.org/]223.5.5.5 119.29.29.29
@@ -48183,6 +48219,7 @@ https://dns.quad9.net/dns-query
 [/koioawq.com/]223.5.5.5 119.29.29.29
 [/kok.plus/]223.5.5.5 119.29.29.29
 [/kokojia.com/]223.5.5.5 119.29.29.29
+[/kol3ij.com/]223.5.5.5 119.29.29.29
 [/kolarmy888.com/]223.5.5.5 119.29.29.29
 [/kole8.com/]223.5.5.5 119.29.29.29
 [/kolrank.com/]223.5.5.5 119.29.29.29
@@ -48762,6 +48799,7 @@ https://dns.quad9.net/dns-query
 [/kunlunta.com/]223.5.5.5 119.29.29.29
 [/kunlunvi.com/]223.5.5.5 119.29.29.29
 [/kunlunwe.com/]223.5.5.5 119.29.29.29
+[/kunlunxin.com/]223.5.5.5 119.29.29.29
 [/kunmingbc.com/]223.5.5.5 119.29.29.29
 [/kunmingkanghui.com/]223.5.5.5 119.29.29.29
 [/kunpengtn.com/]223.5.5.5 119.29.29.29
@@ -48823,6 +48861,7 @@ https://dns.quad9.net/dns-query
 [/kuwwz.com/]223.5.5.5 119.29.29.29
 [/kuxi100.com/]223.5.5.5 119.29.29.29
 [/kuxiaoji.com/]223.5.5.5 119.29.29.29
+[/kuxiaotu.com/]223.5.5.5 119.29.29.29
 [/kuxiaozhu.com/]223.5.5.5 119.29.29.29
 [/kuxiuktv.com/]223.5.5.5 119.29.29.29
 [/kuy8.com/]223.5.5.5 119.29.29.29
@@ -49211,6 +49250,7 @@ https://dns.quad9.net/dns-query
 [/langao.com/]223.5.5.5 119.29.29.29
 [/langchao.com/]223.5.5.5 119.29.29.29
 [/langchengzhixin.com/]223.5.5.5 119.29.29.29
+[/langduqi.com/]223.5.5.5 119.29.29.29
 [/langfang.com/]223.5.5.5 119.29.29.29
 [/langfang12345.com/]223.5.5.5 119.29.29.29
 [/langfangfc.com/]223.5.5.5 119.29.29.29
@@ -50371,6 +50411,7 @@ https://dns.quad9.net/dns-query
 [/liangxinyao.com/]223.5.5.5 119.29.29.29
 [/liangye-xo.xyz/]223.5.5.5 119.29.29.29
 [/liangyi.com/]223.5.5.5 119.29.29.29
+[/liangyiyy.com/]223.5.5.5 119.29.29.29
 [/liangyuan.com/]223.5.5.5 119.29.29.29
 [/liangzhishu.com/]223.5.5.5 119.29.29.29
 [/liangziheikeji.com/]223.5.5.5 119.29.29.29
@@ -50781,6 +50822,7 @@ https://dns.quad9.net/dns-query
 [/lingtan.vip/]223.5.5.5 119.29.29.29
 [/lingti.com/]223.5.5.5 119.29.29.29
 [/lingtiao.com/]223.5.5.5 119.29.29.29
+[/lingtingmusic.com/]223.5.5.5 119.29.29.29
 [/lingtings.com/]223.5.5.5 119.29.29.29
 [/lingtong.info/]223.5.5.5 119.29.29.29
 [/lingtool.com/]223.5.5.5 119.29.29.29
@@ -53470,6 +53512,7 @@ https://dns.quad9.net/dns-query
 [/maritime-dg.com/]223.5.5.5 119.29.29.29
 [/markdown.xyz/]223.5.5.5 119.29.29.29
 [/markdream.com/]223.5.5.5 119.29.29.29
+[/markedboat.com/]223.5.5.5 119.29.29.29
 [/marketingconv.com/]223.5.5.5 119.29.29.29
 [/marketingforce.com/]223.5.5.5 119.29.29.29
 [/markiapp.com/]223.5.5.5 119.29.29.29
@@ -53503,6 +53546,7 @@ https://dns.quad9.net/dns-query
 [/maseek.com/]223.5.5.5 119.29.29.29
 [/masej.com/]223.5.5.5 119.29.29.29
 [/maseven.com/]223.5.5.5 119.29.29.29
+[/masgw.com/]223.5.5.5 119.29.29.29
 [/mashang98.com/]223.5.5.5 119.29.29.29
 [/mashangmai.com/]223.5.5.5 119.29.29.29
 [/mashangshijie.com/]223.5.5.5 119.29.29.29
@@ -55142,6 +55186,7 @@ https://dns.quad9.net/dns-query
 [/mnihyc.com/]223.5.5.5 119.29.29.29
 [/mnjj.group/]223.5.5.5 119.29.29.29
 [/mnkan.com/]223.5.5.5 119.29.29.29
+[/mnpc.net/]223.5.5.5 119.29.29.29
 [/mnwww.com/]223.5.5.5 119.29.29.29
 [/mnxhj.com/]223.5.5.5 119.29.29.29
 [/mnxz8.com/]223.5.5.5 119.29.29.29
@@ -56376,6 +56421,7 @@ https://dns.quad9.net/dns-query
 [/myyx915.com/]223.5.5.5 119.29.29.29
 [/myyzd.com/]223.5.5.5 119.29.29.29
 [/myzaker.com/]223.5.5.5 119.29.29.29
+[/myzfw.com/]223.5.5.5 119.29.29.29
 [/myzhenai.com/]223.5.5.5 119.29.29.29
 [/myzhengyuan.com/]223.5.5.5 119.29.29.29
 [/myzhiniu.com/]223.5.5.5 119.29.29.29
@@ -56604,6 +56650,7 @@ https://dns.quad9.net/dns-query
 [/naoda.net/]223.5.5.5 119.29.29.29
 [/naoffer.com/]223.5.5.5 119.29.29.29
 [/naokor.com/]223.5.5.5 119.29.29.29
+[/naokr.com/]223.5.5.5 119.29.29.29
 [/naono.cc/]223.5.5.5 119.29.29.29
 [/naosiling.com/]223.5.5.5 119.29.29.29
 [/naozhong.net/]223.5.5.5 119.29.29.29
@@ -56915,6 +56962,7 @@ https://dns.quad9.net/dns-query
 [/nercdtv.org/]223.5.5.5 119.29.29.29
 [/nercel.com/]223.5.5.5 119.29.29.29
 [/nerin.com/]223.5.5.5 119.29.29.29
+[/nero-cn.com/]223.5.5.5 119.29.29.29
 [/nerocats.com/]223.5.5.5 119.29.29.29
 [/nerochat.com/]223.5.5.5 119.29.29.29
 [/nervepotato.com/]223.5.5.5 119.29.29.29
@@ -57301,6 +57349,7 @@ https://dns.quad9.net/dns-query
 [/ninestargroup.com/]223.5.5.5 119.29.29.29
 [/ninestarmall.com/]223.5.5.5 119.29.29.29
 [/ninetylab.com/]223.5.5.5 119.29.29.29
+[/nineya.com/]223.5.5.5 119.29.29.29
 [/ning0370.com/]223.5.5.5 119.29.29.29
 [/ningbo-airport.com/]223.5.5.5 119.29.29.29
 [/ningbocat.com/]223.5.5.5 119.29.29.29
@@ -57510,6 +57559,7 @@ https://dns.quad9.net/dns-query
 [/njwuhe.com/]223.5.5.5 119.29.29.29
 [/njwww.net/]223.5.5.5 119.29.29.29
 [/njxax.com/]223.5.5.5 119.29.29.29
+[/njxiaochi.com/]223.5.5.5 119.29.29.29
 [/njxlmz.com/]223.5.5.5 119.29.29.29
 [/njxsmz.com/]223.5.5.5 119.29.29.29
 [/njxueyun.com/]223.5.5.5 119.29.29.29
@@ -61146,6 +61196,7 @@ https://dns.quad9.net/dns-query
 [/procetpoeinjector.com/]223.5.5.5 119.29.29.29
 [/procivi.net/]223.5.5.5 119.29.29.29
 [/prod-mv.com/]223.5.5.5 119.29.29.29
+[/prodcam.cc/]223.5.5.5 119.29.29.29
 [/prodcutmodel.com/]223.5.5.5 119.29.29.29
 [/product1.djicdn.com/]223.5.5.5 119.29.29.29
 [/productivity.wiki/]223.5.5.5 119.29.29.29
@@ -61286,6 +61337,7 @@ https://dns.quad9.net/dns-query
 [/pubsage.com/]223.5.5.5 119.29.29.29
 [/pubtian.com/]223.5.5.5 119.29.29.29
 [/pubukeji.com/]223.5.5.5 119.29.29.29
+[/pubwinol.com/]223.5.5.5 119.29.29.29
 [/pubyun.com/]223.5.5.5 119.29.29.29
 [/pubyun.net/]223.5.5.5 119.29.29.29
 [/pubyun.org/]223.5.5.5 119.29.29.29
@@ -61536,6 +61588,7 @@ https://dns.quad9.net/dns-query
 [/q88c.net/]223.5.5.5 119.29.29.29
 [/qacn.net/]223.5.5.5 119.29.29.29
 [/qahzp.com/]223.5.5.5 119.29.29.29
+[/qajung.xyz/]223.5.5.5 119.29.29.29
 [/qakh01.site/]223.5.5.5 119.29.29.29
 [/qakkan.vip/]223.5.5.5 119.29.29.29
 [/qalex.com/]223.5.5.5 119.29.29.29
@@ -61684,6 +61737,7 @@ https://dns.quad9.net/dns-query
 [/qdf0605.com/]223.5.5.5 119.29.29.29
 [/qdfaer.com/]223.5.5.5 119.29.29.29
 [/qdfik.com/]223.5.5.5 119.29.29.29
+[/qdfuer.com/]223.5.5.5 119.29.29.29
 [/qdfuns.com/]223.5.5.5 119.29.29.29
 [/qdfw.com/]223.5.5.5 119.29.29.29
 [/qdgaoshanyun.com/]223.5.5.5 119.29.29.29
@@ -62330,6 +62384,7 @@ https://dns.quad9.net/dns-query
 [/qingfuwucdn.net/]223.5.5.5 119.29.29.29
 [/qingfuyun.com/]223.5.5.5 119.29.29.29
 [/qinggantang.com/]223.5.5.5 119.29.29.29
+[/qingge666.com/]223.5.5.5 119.29.29.29
 [/qinggl.com/]223.5.5.5 119.29.29.29
 [/qinggonggroup.com/]223.5.5.5 119.29.29.29
 [/qingguo.com/]223.5.5.5 119.29.29.29
@@ -65323,6 +65378,7 @@ https://dns.quad9.net/dns-query
 [/s2cinc.com/]223.5.5.5 119.29.29.29
 [/s2g2b2c.com/]223.5.5.5 119.29.29.29
 [/s369.com/]223.5.5.5 119.29.29.29
+[/s4648o.com/]223.5.5.5 119.29.29.29
 [/s4g5.com/]223.5.5.5 119.29.29.29
 [/s4yd.com/]223.5.5.5 119.29.29.29
 [/s575.com/]223.5.5.5 119.29.29.29
@@ -65552,6 +65608,7 @@ https://dns.quad9.net/dns-query
 [/sanligm.com/]223.5.5.5 119.29.29.29
 [/sanliu2021.com/]223.5.5.5 119.29.29.29
 [/sanliwenhua.com/]223.5.5.5 119.29.29.29
+[/sanmao.com/]223.5.5.5 119.29.29.29
 [/sanmiaocdn.com/]223.5.5.5 119.29.29.29
 [/sanmicun.com/]223.5.5.5 119.29.29.29
 [/sanmukouli.com/]223.5.5.5 119.29.29.29
@@ -66440,6 +66497,7 @@ https://dns.quad9.net/dns-query
 [/senguo.cc/]223.5.5.5 119.29.29.29
 [/senguo.com/]223.5.5.5 119.29.29.29
 [/sengxian.com/]223.5.5.5 119.29.29.29
+[/sengzai.com/]223.5.5.5 119.29.29.29
 [/senhe.com/]223.5.5.5 119.29.29.29
 [/senior.auto/]223.5.5.5 119.29.29.29
 [/seniverse.com/]223.5.5.5 119.29.29.29
@@ -69030,6 +69088,7 @@ https://dns.quad9.net/dns-query
 [/slanface.com/]223.5.5.5 119.29.29.29
 [/slanissue.com/]223.5.5.5 119.29.29.29
 [/slanmedia.com/]223.5.5.5 119.29.29.29
+[/slashdevslashnetslashtun.net/]223.5.5.5 119.29.29.29
 [/slatic.net/]223.5.5.5 119.29.29.29
 [/slbiop.com/]223.5.5.5 119.29.29.29
 [/slbrucite.com/]223.5.5.5 119.29.29.29
@@ -72884,6 +72943,7 @@ https://dns.quad9.net/dns-query
 [/thesetech.com/]223.5.5.5 119.29.29.29
 [/thesmartmelon.com/]223.5.5.5 119.29.29.29
 [/thesofabedshop.com/]223.5.5.5 119.29.29.29
+[/thestack.top/]223.5.5.5 119.29.29.29
 [/theszt.com/]223.5.5.5 119.29.29.29
 [/thetali.com/]223.5.5.5 119.29.29.29
 [/thethirdmedia.com/]223.5.5.5 119.29.29.29
@@ -73154,6 +73214,7 @@ https://dns.quad9.net/dns-query
 [/tianxiaxinyong.com/]223.5.5.5 119.29.29.29
 [/tianxiaydslfd.com/]223.5.5.5 119.29.29.29
 [/tianxiayouxi.com/]223.5.5.5 119.29.29.29
+[/tianxiayouyue.com/]223.5.5.5 119.29.29.29
 [/tianxin100.vip/]223.5.5.5 119.29.29.29
 [/tianxing.com/]223.5.5.5 119.29.29.29
 [/tianxingjianyiliao.com/]223.5.5.5 119.29.29.29
@@ -74601,6 +74662,7 @@ https://dns.quad9.net/dns-query
 [/tuanwen.com/]223.5.5.5 119.29.29.29
 [/tuanxue360.com/]223.5.5.5 119.29.29.29
 [/tuanxue360.net/]223.5.5.5 119.29.29.29
+[/tuanyougou.com/]223.5.5.5 119.29.29.29
 [/tuanyuan520.com/]223.5.5.5 119.29.29.29
 [/tuanyx.com/]223.5.5.5 119.29.29.29
 [/tubachina.com/]223.5.5.5 119.29.29.29
@@ -75022,6 +75084,7 @@ https://dns.quad9.net/dns-query
 [/txwy.com/]223.5.5.5 119.29.29.29
 [/txxbxx.com/]223.5.5.5 119.29.29.29
 [/txxpyq.com/]223.5.5.5 119.29.29.29
+[/txxy.com/]223.5.5.5 119.29.29.29
 [/txy6666.com/]223.5.5.5 119.29.29.29
 [/txy8.com/]223.5.5.5 119.29.29.29
 [/txyapp.com/]223.5.5.5 119.29.29.29
@@ -75744,6 +75807,7 @@ https://dns.quad9.net/dns-query
 [/upluck.cc/]223.5.5.5 119.29.29.29
 [/upowerchain.com/]223.5.5.5 119.29.29.29
 [/uppershop.hk/]223.5.5.5 119.29.29.29
+[/upppt.com/]223.5.5.5 119.29.29.29
 [/uppsd.com/]223.5.5.5 119.29.29.29
 [/upqzfile.com/]223.5.5.5 119.29.29.29
 [/upqzfilebk.com/]223.5.5.5 119.29.29.29
@@ -79075,6 +79139,7 @@ https://dns.quad9.net/dns-query
 [/wintooo.com/]223.5.5.5 119.29.29.29
 [/wintopedu.com/]223.5.5.5 119.29.29.29
 [/wintxt.com/]223.5.5.5 119.29.29.29
+[/winvk.com/]223.5.5.5 119.29.29.29
 [/winvvv.com/]223.5.5.5 119.29.29.29
 [/winwebmail.com/]223.5.5.5 119.29.29.29
 [/winwin-co.com/]223.5.5.5 119.29.29.29
@@ -82484,6 +82549,7 @@ https://dns.quad9.net/dns-query
 [/xinyaoshi.com/]223.5.5.5 119.29.29.29
 [/xinyayk.com/]223.5.5.5 119.29.29.29
 [/xinyegang.com/]223.5.5.5 119.29.29.29
+[/xinyetongcard.com/]223.5.5.5 119.29.29.29
 [/xinyi-tech.com/]223.5.5.5 119.29.29.29
 [/xinyi.com/]223.5.5.5 119.29.29.29
 [/xinyi2006.com/]223.5.5.5 119.29.29.29
@@ -83032,6 +83098,7 @@ https://dns.quad9.net/dns-query
 [/xmmlnk.com/]223.5.5.5 119.29.29.29
 [/xmmnrj.com/]223.5.5.5 119.29.29.29
 [/xmmtoys.com/]223.5.5.5 119.29.29.29
+[/xmmtu.com/]223.5.5.5 119.29.29.29
 [/xmmuye.com/]223.5.5.5 119.29.29.29
 [/xmnjdwx.com/]223.5.5.5 119.29.29.29
 [/xmnovel.com/]223.5.5.5 119.29.29.29
@@ -83570,6 +83637,7 @@ https://dns.quad9.net/dns-query
 [/xslb.me/]223.5.5.5 119.29.29.29
 [/xsm818.com/]223.5.5.5 119.29.29.29
 [/xsmaofa.com/]223.5.5.5 119.29.29.29
+[/xsmart.com/]223.5.5.5 119.29.29.29
 [/xsmore.com/]223.5.5.5 119.29.29.29
 [/xsmya.com/]223.5.5.5 119.29.29.29
 [/xsn168.com/]223.5.5.5 119.29.29.29
@@ -84393,6 +84461,7 @@ https://dns.quad9.net/dns-query
 [/xzfwz.com/]223.5.5.5 119.29.29.29
 [/xzggjyzpw.com/]223.5.5.5 119.29.29.29
 [/xzgjj.com/]223.5.5.5 119.29.29.29
+[/xzgqm.com/]223.5.5.5 119.29.29.29
 [/xzgxwq.com/]223.5.5.5 119.29.29.29
 [/xzhh966888.com/]223.5.5.5 119.29.29.29
 [/xzhhbfesco.com/]223.5.5.5 119.29.29.29
@@ -86002,6 +86071,7 @@ https://dns.quad9.net/dns-query
 [/yisouyifa.com/]223.5.5.5 119.29.29.29
 [/yissimg.com/]223.5.5.5 119.29.29.29
 [/yisu.com/]223.5.5.5 119.29.29.29
+[/yisuan.net/]223.5.5.5 119.29.29.29
 [/yisuddoscdn.com/]223.5.5.5 119.29.29.29
 [/yisuoyi.com/]223.5.5.5 119.29.29.29
 [/yit.com/]223.5.5.5 119.29.29.29
@@ -87719,6 +87789,7 @@ https://dns.quad9.net/dns-query
 [/yueyuanzhiye.com/]223.5.5.5 119.29.29.29
 [/yueyues.com/]223.5.5.5 119.29.29.29
 [/yueyueworld.com/]223.5.5.5 119.29.29.29
+[/yueyueyd.com/]223.5.5.5 119.29.29.29
 [/yueyuez.com/]223.5.5.5 119.29.29.29
 [/yueyundns.com/]223.5.5.5 119.29.29.29
 [/yueyuzhushou.com/]223.5.5.5 119.29.29.29
@@ -89581,6 +89652,7 @@ https://dns.quad9.net/dns-query
 [/zhangwojumian.com/]223.5.5.5 119.29.29.29
 [/zhangxin.ltd/]223.5.5.5 119.29.29.29
 [/zhangxinhulian.com/]223.5.5.5 119.29.29.29
+[/zhangxinmj.com/]223.5.5.5 119.29.29.29
 [/zhangxinxu.com/]223.5.5.5 119.29.29.29
 [/zhangyi123.com/]223.5.5.5 119.29.29.29
 [/zhangyoubao.com/]223.5.5.5 119.29.29.29
@@ -90147,6 +90219,7 @@ https://dns.quad9.net/dns-query
 [/zhisiyun.com/]223.5.5.5 119.29.29.29
 [/zhisuoyi.net/]223.5.5.5 119.29.29.29
 [/zhitaosoft.com/]223.5.5.5 119.29.29.29
+[/zhitingtech.com/]223.5.5.5 119.29.29.29
 [/zhitongcaijing.com/]223.5.5.5 119.29.29.29
 [/zhitouxing.com/]223.5.5.5 119.29.29.29
 [/zhituad.com/]223.5.5.5 119.29.29.29
@@ -90902,6 +90975,7 @@ https://dns.quad9.net/dns-query
 [/zimacaihang.com/]223.5.5.5 119.29.29.29
 [/zimilan.com/]223.5.5.5 119.29.29.29
 [/zimu.me/]223.5.5.5 119.29.29.29
+[/zimufy.com/]223.5.5.5 119.29.29.29
 [/zimuism.com/]223.5.5.5 119.29.29.29
 [/zimujiang.com/]223.5.5.5 119.29.29.29
 [/zimukeji.com/]223.5.5.5 119.29.29.29
@@ -92042,6 +92116,7 @@ https://dns.quad9.net/dns-query
 [/zun.gd/]223.5.5.5 119.29.29.29
 [/zun9.com/]223.5.5.5 119.29.29.29
 [/zunnou.com/]223.5.5.5 119.29.29.29
+[/zunsou.com/]223.5.5.5 119.29.29.29
 [/zunxiang17.com/]223.5.5.5 119.29.29.29
 [/zunxiangqiming.com/]223.5.5.5 119.29.29.29
 [/zunxun.com/]223.5.5.5 119.29.29.29
